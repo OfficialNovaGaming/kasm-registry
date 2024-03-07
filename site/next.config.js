@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'The NOVA Corporation',
+    description: 'The NOVA Corporation Kasm Images',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://officialnovagaming.github.io/kasm-registry',
+    contactUrl: 'https://thenovacorporation.com',
   },
   reactStrictMode: true,
   swcMinify: true,
